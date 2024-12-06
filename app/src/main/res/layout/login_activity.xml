@@ -14,7 +14,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="45dp"
         android:gravity="center"
-        android:text="Fruits QHN"
+        android:text="IT PROJECT"
         android:textColor="@color/white"
         android:textSize="30sp"
         android:textStyle="bold|normal|italic" />
@@ -62,7 +62,7 @@
                     android:layout_height="wrap_content"/>
                 <TextView
                     android:id="@+id/singUp"
-                    android:text="Sing Up"
+                    android:text="Sign Up"
                     android:paddingTop="5dp"
                     android:textAlignment="center"
                     android:textColor="@color/pinkColor"
@@ -158,7 +158,7 @@
 
 
                 <com.google.android.material.textfield.TextInputLayout
-                    android:hint="Nhập email"
+                    android:hint="Email của bạn ?"
                     android:layout_marginLeft="5dp"
                     android:layout_marginRight="5dp"
                     android:layout_marginTop="5dp"
